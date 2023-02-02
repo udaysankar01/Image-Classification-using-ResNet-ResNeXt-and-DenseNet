@@ -1,0 +1,4 @@
+parameters: 616438 
+Testing Accuracy: 72.01 %
+Training Accucary: 83.708 %
+Inference Time: 0.198 microseconds

@@ -1,0 +1,5 @@
+430102 
+Test Accuracy: 68.42%
+Train Accuracy: 83.004%
+Ineference Time: 0.186 microseconds
+

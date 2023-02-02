@@ -1,0 +1,4 @@
+parameters: 1782394
+Test Accuracy:
+Train Accuracy: 
+Inference Time: 5:30 per 10000 = 6.575 microseconds
