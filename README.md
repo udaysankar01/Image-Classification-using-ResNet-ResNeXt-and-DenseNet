@@ -1,1 +1,1 @@
-# Image Classification using ResNet, ResNeXt, and DenseNet.
+# Image Classification using ResNet, ResNeXt, and DenseNet
