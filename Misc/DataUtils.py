@@ -1,17 +1,12 @@
 #!/usr/bin/env python3
 
 """
-RBE/CS549 Spring 2022: Computer Vision
-Homework 0: Alohomora: Phase 2 Starter Code
+RBE/CS549 Spring 2023: Computer Vision
 
-
-Author(s):
-Prof. Nitin J. Sanket (nsanket@wpi.edu)
-Assistant Professor,
-Robotics Engineering Department,
+Author(s): 
+Uday Sankar (usankar@wpi.edu)
+Mechatronics, Robotics and Automation Engineering,
 Worcester Polytechnic Institute
-
-Code adapted from CMSC733 at the University of Maryland, College Park.
 """
 
 import os
