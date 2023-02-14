@@ -1,21 +1,13 @@
 #!/usr/bin/env python3
 
 """
-RBE/CS549 Spring 2022: Computer Vision
-Homework 0: Alohomora: Phase 2 Starter Code
-
-Colab file can be found at:
-    https://colab.research.google.com/drive/1FUByhYCYAfpl8J9VxMQ1DcfITpY8qgsF
+RBE/CS549 Spring 2023: Computer Vision
 
 Author(s): 
-Prof. Nitin J. Sanket (nsanket@wpi.edu), Lening Li (lli4@wpi.edu), Gejji, Vaishnavi Vivek (vgejji@wpi.edu)
-Robotics Engineering Department,
+Uday Sankar (usankar@wpi.edu)
+Mechatronics, Robotics and Automation Engineering,
 Worcester Polytechnic Institute
-
-Code adapted from CMSC733 at the University of Maryland, College Park.
 """
-
-
 # Dependencies:
 # opencv, do (pip install opencv-python)
 # skimage, do (apt install python-skimage)
